@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "80218324037",
+    "project_id": "starsyncgo",
+    "storage_bucket": "starsyncgo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80218324037:android:22ddb37326a6ab7ee3772c",
+        "android_client_info": {
+          "package_name": "com.example.starsync_go"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZcFkGRvvdOwTf87825ICmobsEvbj-i5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
